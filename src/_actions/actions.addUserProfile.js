@@ -1,0 +1,1 @@
+export const addUserProfile = (userProfile) => ({ type: "USER_PROFILE", userProfile });
